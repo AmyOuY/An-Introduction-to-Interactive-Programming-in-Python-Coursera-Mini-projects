@@ -11,3 +11,5 @@ Mini-project 3: "Stopwatch: The Game"
 Mini-project 4: "Implementation of classic arcade game Pong"
 
 Mini-project 5: "Implementation of card game - Memory"
+
+Mini-project 6: "Blackjack"
