@@ -13,3 +13,5 @@ Mini-project 4: "Implementation of classic arcade game Pong"
 Mini-project 5: "Implementation of card game - Memory"
 
 Mini-project 6: "Blackjack"
+
+Mini-project 7: "Spaceship and Asteroids"
